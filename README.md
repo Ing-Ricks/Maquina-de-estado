@@ -1,5 +1,4 @@
-# TCD_tarea_micros2
-Trabajo de micros 2,Implementar mediante el modelo de Máquina de Estados Finitos (MEF) el antirrebote de teclas y la lógica de funcionamiento de un semáforo.
+# Implementar mediante el modelo de Máquina de Estados Finitos (MEF) el antirrebote de teclas y la lógica de funcionamiento de un semáforo.
 
 # Máquina de estado del semáforo
 El modulo de software en la carpeta lib-semaforo con los archivos semaforo.cpp y semaforo.h
