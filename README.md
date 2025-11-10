@@ -14,7 +14,7 @@ Tambien contamos con los dos pulsadores deben ser capaz de cambiar el tiempo de 
 
 Ahora tambein podemos contar con que las dos teclas debe permitir cambiar el modo de operación del mismo semáforo a normal, que vamos siempre al modo de operación anterior, verificando los flancos ascendentens vamos a tener el siguiente modo de operación [normal, desconectado, alarma , normal, se repite].
 
-# Antirebote y puslantes
+# Antirebote y pulsantes
 El modulo de software en la carpeta lib-teclas con los archivos teclas.cpp y teclas.h
 
 Se realiza una MEF que resuelva el antirrebote por software con dos funciones asociadas, una para inicializar la MEF y otra para actualizar el estado de la MEF.
